@@ -7,4 +7,4 @@ Your privacy is important to us. This privacy policy explains how we collect, us
 Our app fetches trending fashion data from Pinterest. We do not store any personal data.
 
 ## Contact Us
-If you have any questions, contact us at your-email@example.com.
+If you have any questions, contact us at aditighosh1947@gmail.com
